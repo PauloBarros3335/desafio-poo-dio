@@ -149,4 +149,19 @@ Se possível:<br>
 
 ------------
 
+<h2> 🚀 Executando o Projeto </h2>
+
+<p>
+Para executar o projeto, siga os passos abaixo:<br>
+<br>
+1. Certifique-se de ter o Java JDK 11 ou superior instalado.<br>
+2. Clone o repositório: <code>git clone https://github.com/seu-usuario/desafio-poo-dio.git</code><br>
+3. Navegue até o diretório do projeto: <code>cd desafio-poo-dio</code><br>
+4. Compile o projeto: <code>mvn compile</code><br>
+5. Execute os testes: <code>mvn test</code><br>
+6. Execute a aplicação: <code>java -cp target/classes Main</code><br>
+<br>
+O projeto está funcional e todos os testes passam! ✅<br>
+</p>
+
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
